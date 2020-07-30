@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/menloicon/static/css/main.5f361e03.chunk.css",
+    "main.js": "/menloicon/static/js/main.9a73d2cb.chunk.js",
+    "main.js.map": "/menloicon/static/js/main.9a73d2cb.chunk.js.map",
+    "runtime-main.js": "/menloicon/static/js/runtime-main.664f7201.js",
+    "runtime-main.js.map": "/menloicon/static/js/runtime-main.664f7201.js.map",
+    "static/js/2.14a24939.chunk.js": "/menloicon/static/js/2.14a24939.chunk.js",
+    "static/js/2.14a24939.chunk.js.map": "/menloicon/static/js/2.14a24939.chunk.js.map",
+    "index.html": "/menloicon/index.html",
+    "precache-manifest.bde6b0a0083dd35c5605db2e9a87094b.js": "/menloicon/precache-manifest.bde6b0a0083dd35c5605db2e9a87094b.js",
+    "service-worker.js": "/menloicon/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/menloicon/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.14a24939.chunk.js.LICENSE.txt": "/menloicon/static/js/2.14a24939.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.664f7201.js",
+    "static/js/2.14a24939.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9a73d2cb.chunk.js"
+  ]
+}
